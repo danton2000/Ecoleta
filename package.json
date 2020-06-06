@@ -1,0 +1,27 @@
+{
+  "name": "Ecoleta",
+  "version": "1.0.0",
+  "description": "Projeto feito na semana next level week",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danton2000/Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "Danton Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danton2000/Ecoleta/issues"
+  },
+  "homepage": "https://github.com/danton2000/Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
